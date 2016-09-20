@@ -1,4 +1,9 @@
-IMPORTANT: The definitive location for Aleph Object's Cura source code is here: https://code.alephobjects.com/diffusion/CURA
+Forked from tdaede/lulzbot-cura to include an estimate on the amount of energy a 3D print job will require.
+
+The changed files are "sceneView.py" and "preferencesDialog.py" under Cura/gui 
+as well as "profile.py" in Cura/util also "energy.py" has been added to Cura/util.
+
+A custom installer is coming soon, but if you want energy estimation now you can install the most recent version of LulzBot Cura and replace the 3 files that are mentioned above and add "energy.py" to Cura/util.
 
 
 Cura
