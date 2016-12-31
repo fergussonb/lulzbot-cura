@@ -3,8 +3,13 @@ Forked from tdaede/lulzbot-cura to include an estimate on the amount of energy a
 The changed files are "sceneView.py" and "preferencesDialog.py" under Cura/gui 
 as well as "profile.py" in Cura/util also "energy.py" has been added to Cura/util.
 
-A custom installer is coming soon, but if you want energy estimation now you can install the most recent version of LulzBot Cura and replace the 3 files that are mentioned above and add "energy.py" to Cura/util.
+A custom installer is ~~coming soon~~ here for Windows! To use simply download the installer (Cura_21.01.exe) and run it. The files will download to your default location into a folder named Cura_21.01 by default. Once installation is complete run your new program named Cura 21.01 for access to all the Cura 3D printing tools you've grown to love with the addition of energy estimation. Note that the default energy values listed under machine setting very likely do not match what your machine actually uses/requires you will need to find and enter these values yourself. However once they have been changed in settings the program will remember your values every time you re-open it. This installer is confirmed to work on Windows 7 and 10.
 
+Installers for Mac OS and Linux distributions will be released soon, but if you want energy estimation now you can install the most recent version of LulzBot Cura and replace the 3 files that are mentioned above and add "energy.py" to Cura/util.
+
+
+
+Begin README from tdaede/lulzbot-cura
 
 Cura
 ====
